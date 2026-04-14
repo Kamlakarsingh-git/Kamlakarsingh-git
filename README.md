@@ -47,7 +47,7 @@
 - 📍 India 🇮🇳
 - 🌱 Currently Learning: **DSA & Java**
 - 💬 Ask me about: **Java, Git, GitHub**
-- 📫 Email: tumhari@email.com
+- 📫 Email: prajjulsingh487@email.com
 
 ---
 
@@ -89,7 +89,7 @@
 - 📍 India 🇮🇳
 - 🌱 Currently Learning: **DSA & Java**
 - 💬 Ask me about: **Java, Git, GitHub**
-- 📫 Email: tumhari@email.com
+- 📫 Email: prajjulsingh487@email.com
 
 ---
 
